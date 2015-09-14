@@ -124,7 +124,7 @@
             // fileLoadDialog
             // 
             this.fileLoadDialog.FileName = "fileLoadDialog";
-            this.fileLoadDialog.Filter = "JPG|*.jpg;*.gif;*.bmp";
+            this.fileLoadDialog.Filter = "Images|*.jpg;*.jpeg;*.gif;*.bmp;*.png";
             this.fileLoadDialog.RestoreDirectory = true;
             this.fileLoadDialog.SupportMultiDottedExtensions = true;
             this.fileLoadDialog.Title = "Load Image";

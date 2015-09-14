@@ -33,13 +33,18 @@ namespace SteganographyCS
         private void fileLoadDialog_FileOk(object sender, CancelEventArgs e)
         {
             browseTextBox.Text = fileLoadDialog.FileName;
-            image = (FileStream)fileLoadDialog.OpenFile();
+            loadImage((FileStream)fileLoadDialog.OpenFile());
         }
 
         private void Steganography_Resize(object sender, System.EventArgs e)
         {
             browseTextBox.Width = this.Width - 41;
             stegTextBox.Width = browseTextBox.Width;
+        }
+        
+        private void loadImage(Stream fileStream)
+        {
+            //Get List Of File Headers From Here http://www.garykessler.net/library/file_sigs.html
         }
     }
 }
