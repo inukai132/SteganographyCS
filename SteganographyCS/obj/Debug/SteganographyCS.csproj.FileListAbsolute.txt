@@ -1,0 +1,10 @@
+c:\users\tchilder\documents\visual studio 2013\Projects\SteganographyCS\SteganographyCS\bin\Debug\SteganographyCS.exe.config
+c:\users\tchilder\documents\visual studio 2013\Projects\SteganographyCS\SteganographyCS\bin\Debug\SteganographyCS.exe
+c:\users\tchilder\documents\visual studio 2013\Projects\SteganographyCS\SteganographyCS\bin\Debug\SteganographyCS.pdb
+c:\users\tchilder\documents\visual studio 2013\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.csprojResolveAssemblyReference.cache
+c:\users\tchilder\documents\visual studio 2013\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.ImageWindow.resources
+c:\users\tchilder\documents\visual studio 2013\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.Steganography.resources
+c:\users\tchilder\documents\visual studio 2013\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.Properties.Resources.resources
+c:\users\tchilder\documents\visual studio 2013\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.csproj.GenerateResource.Cache
+c:\users\tchilder\documents\visual studio 2013\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.exe
+c:\users\tchilder\documents\visual studio 2013\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.pdb
