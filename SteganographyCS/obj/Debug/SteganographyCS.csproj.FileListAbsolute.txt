@@ -8,3 +8,13 @@ c:\users\tchilder\documents\visual studio 2013\Projects\SteganographyCS\Steganog
 c:\users\tchilder\documents\visual studio 2013\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.csproj.GenerateResource.Cache
 c:\users\tchilder\documents\visual studio 2013\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.exe
 c:\users\tchilder\documents\visual studio 2013\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.pdb
+C:\Users\Inukai\Documents\Visual Studio 2015\Projects\SteganographyCS\SteganographyCS\bin\Debug\SteganographyCS.exe.config
+C:\Users\Inukai\Documents\Visual Studio 2015\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.exe
+C:\Users\Inukai\Documents\Visual Studio 2015\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.pdb
+C:\Users\Inukai\Documents\Visual Studio 2015\Projects\SteganographyCS\SteganographyCS\bin\Debug\SteganographyCS.exe
+C:\Users\Inukai\Documents\Visual Studio 2015\Projects\SteganographyCS\SteganographyCS\bin\Debug\SteganographyCS.pdb
+C:\Users\Inukai\Documents\Visual Studio 2015\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.csprojResolveAssemblyReference.cache
+C:\Users\Inukai\Documents\Visual Studio 2015\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.ImageWindow.resources
+C:\Users\Inukai\Documents\Visual Studio 2015\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.Steganography.resources
+C:\Users\Inukai\Documents\Visual Studio 2015\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.Properties.Resources.resources
+C:\Users\Inukai\Documents\Visual Studio 2015\Projects\SteganographyCS\SteganographyCS\obj\Debug\SteganographyCS.csproj.GenerateResource.Cache
